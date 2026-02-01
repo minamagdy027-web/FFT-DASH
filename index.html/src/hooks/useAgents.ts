@@ -9,8 +9,8 @@ import type { Agent, TeamStats } from '@/types';
 // 2. Replace the empty string below with your web app URL
 // 3. Set useGoogleSheets to true
 // ============================================
-const GOOGLE_SHEETS_URL = ''; // e.g., 'https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec'
-const USE_GOOGLE_SHEETS = false;
+const GOOGLE_SHEETS_URL = 'https://script.google.com/macros/s/AKfycbxJTphhzJwjBognwJiPc8Ogt5vsZLv7vaQIbOajo5VLn_X3afXOS3vXgRB-YcDKtlWy/exec'; // e.g., 'https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec'
+const USE_GOOGLE_SHEETS = true;
 
 export function useAgents() {
   const [agents, setAgents] = useState<Agent[]>([]);
