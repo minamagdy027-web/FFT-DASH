@@ -1,0 +1,1894 @@
+[
+  {
+    "id": 0,
+    "name": "Hossam Mostafa Harby Mostafa",
+    "email": "hossam.mostafa@almosafer.com",
+    "tl": "Mohamed Sayed",
+    "new_pct": 1.54,
+    "new_kpi_pct": 0.25,
+    "total_cases": 1381,
+    "total_points": 4761.0,
+    "achieved_points": 5287.0,
+    "support_points": 526.0,
+    "work_days": 15.0,
+    "avg_cases_per_day": 151.0,
+    "cases": {
+      "1g_sch": 98,
+      "auto": 91,
+      "check_in": 302,
+      "dmc": 4,
+      "expired_payment": 31,
+      "failed": 111,
+      "manual": 20,
+      "refund_others": 96,
+      "reissue_refunds": 619,
+      "sch": 0,
+      "wa_sch": 9
+    },
+    "quality": {
+      "average_final_pct": 100.0,
+      "record_count": 35,
+      "percentage": 1.0
+    },
+    "sla": {
+      "avg_duration": 7.138059856,
+      "percentage": 0.07138059856
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 1,
+    "name": "Mohamed Ismail",
+    "email": "mohamed.ismail@almosafer.com",
+    "tl": "Nada Metwally",
+    "new_pct": 1.5,
+    "new_kpi_pct": 0.25,
+    "total_cases": 1646,
+    "total_points": 5831.0,
+    "achieved_points": 5836.0,
+    "support_points": 5.0,
+    "work_days": 17.0,
+    "avg_cases_per_day": 162.0,
+    "cases": {
+      "1g_sch": 1,
+      "auto": 186,
+      "check_in": 356,
+      "dmc": 1,
+      "expired_payment": 23,
+      "failed": 118,
+      "manual": 21,
+      "refund_others": 167,
+      "reissue_refunds": 743,
+      "sch": 22,
+      "wa_sch": 8
+    },
+    "quality": {
+      "average_final_pct": 100.0,
+      "record_count": 36,
+      "percentage": 1.0
+    },
+    "sla": {
+      "avg_duration": 6.387411158,
+      "percentage": 0.06387411158
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 3,
+    "name": "Mohamed Fathy Ahmed Mohamed Habib",
+    "email": "mohamed.habib@almosafer.com",
+    "tl": "Abdelrahman Mohamed",
+    "new_pct": 1.47,
+    "new_kpi_pct": 0.25,
+    "total_cases": 1422,
+    "total_points": 5377.0,
+    "achieved_points": 5377.0,
+    "support_points": 0.0,
+    "work_days": 16.0,
+    "avg_cases_per_day": 155.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 238,
+      "check_in": 134,
+      "dmc": 12,
+      "expired_payment": 27,
+      "failed": 132,
+      "manual": 6,
+      "refund_others": 99,
+      "reissue_refunds": 745,
+      "sch": 0,
+      "wa_sch": 29
+    },
+    "quality": {
+      "average_final_pct": 100.0,
+      "record_count": 21,
+      "percentage": 1.0
+    },
+    "sla": {
+      "avg_duration": 6.88426911,
+      "percentage": 0.0688426911
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 2,
+    "name": "Mostafa Hossam Abdelmonaem Hossam",
+    "email": "mostafa.hossam@almosafer.com",
+    "tl": "Abdelrahman Mohamed",
+    "new_pct": 1.4,
+    "new_kpi_pct": 0.25,
+    "total_cases": 1704,
+    "total_points": 5612.0,
+    "achieved_points": 6046.0,
+    "support_points": 434.0,
+    "work_days": 18.0,
+    "avg_cases_per_day": 150.0,
+    "cases": {
+      "1g_sch": 73,
+      "auto": 268,
+      "check_in": 364,
+      "dmc": 6,
+      "expired_payment": 20,
+      "failed": 88,
+      "manual": 15,
+      "refund_others": 120,
+      "reissue_refunds": 739,
+      "sch": 0,
+      "wa_sch": 11
+    },
+    "quality": {
+      "average_final_pct": 100.0,
+      "record_count": 35,
+      "percentage": 1.0
+    },
+    "sla": {
+      "avg_duration": 6.554315022,
+      "percentage": 0.06554315022
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 5,
+    "name": "Eman Mahfouz Mohamed",
+    "email": "eman.mohamed2@almosafer.com",
+    "tl": "Abdelrahman Mohamed",
+    "new_pct": 1.4,
+    "new_kpi_pct": 0.25,
+    "total_cases": 1252,
+    "total_points": 5036.0,
+    "achieved_points": 5144.0,
+    "support_points": 108.0,
+    "work_days": 16.0,
+    "avg_cases_per_day": 141.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 116,
+      "check_in": 136,
+      "dmc": 27,
+      "expired_payment": 17,
+      "failed": 125,
+      "manual": 44,
+      "refund_others": 59,
+      "reissue_refunds": 704,
+      "sch": 4,
+      "wa_sch": 20
+    },
+    "quality": {
+      "average_final_pct": 90.32258065,
+      "record_count": 31,
+      "percentage": 0.9032258065
+    },
+    "sla": {
+      "avg_duration": 8.029505522,
+      "percentage": 0.08029505522
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 14,
+    "name": "Abdelaziz Abdelhamid Sami",
+    "email": "abdelaziz.sami@almosafer.com",
+    "tl": "Mohamed Sayed",
+    "new_pct": 1.38,
+    "new_kpi_pct": 0.25,
+    "total_cases": 1510,
+    "total_points": 5680.0,
+    "achieved_points": 5680.0,
+    "support_points": 0.0,
+    "work_days": 18.0,
+    "avg_cases_per_day": 143.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 84,
+      "check_in": 362,
+      "dmc": 4,
+      "expired_payment": 34,
+      "failed": 105,
+      "manual": 25,
+      "refund_others": 109,
+      "reissue_refunds": 771,
+      "sch": 0,
+      "wa_sch": 16
+    },
+    "quality": {
+      "average_final_pct": 100.0,
+      "record_count": 38,
+      "percentage": 1.0
+    },
+    "sla": {
+      "avg_duration": 10.20568676,
+      "percentage": 0.1020568676
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 4,
+    "name": "Mohamed Alsaeed Taha Abd Elfattah Elkady",
+    "email": "mohamed.elsaeed@almosafer.com",
+    "tl": "Nada Metwally",
+    "new_pct": 1.37,
+    "new_kpi_pct": 0.25,
+    "total_cases": 1266,
+    "total_points": 5011.0,
+    "achieved_points": 5011.0,
+    "support_points": 0.0,
+    "work_days": 16.0,
+    "avg_cases_per_day": 143.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 114,
+      "check_in": 134,
+      "dmc": 10,
+      "expired_payment": 38,
+      "failed": 143,
+      "manual": 34,
+      "refund_others": 83,
+      "reissue_refunds": 689,
+      "sch": 8,
+      "wa_sch": 13
+    },
+    "quality": {
+      "average_final_pct": 96.2962963,
+      "record_count": 27,
+      "percentage": 0.962962963
+    },
+    "sla": {
+      "avg_duration": 7.972673734,
+      "percentage": 0.07972673734
+    },
+    "lateness": {
+      "sum_lateness": 2,
+      "count_lateness": 1
+    },
+    "sf_lateness": {
+      "lateness_minutes": 11
+    }
+  },
+  {
+    "id": 7,
+    "name": "Amr Samir Mohamed Khaled Abdelrahman",
+    "email": "amr.samir@almosafer.com",
+    "tl": "Mohamed Sayed",
+    "new_pct": 1.34,
+    "new_kpi_pct": 0.25,
+    "total_cases": 1551,
+    "total_points": 5827.0,
+    "achieved_points": 5833.0,
+    "support_points": 6.0,
+    "work_days": 19.0,
+    "avg_cases_per_day": 138.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 121,
+      "check_in": 356,
+      "dmc": 13,
+      "expired_payment": 12,
+      "failed": 121,
+      "manual": 24,
+      "refund_others": 118,
+      "reissue_refunds": 770,
+      "sch": 0,
+      "wa_sch": 16
+    },
+    "quality": {
+      "average_final_pct": 97.56097561,
+      "record_count": 41,
+      "percentage": 0.9756097561
+    },
+    "sla": {
+      "avg_duration": 7.023937908,
+      "percentage": 0.07023937908
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 11,
+    "name": "Ahmed Ehab Mohamed Badreldin",
+    "email": "ahmed.badreldin@almosafer.com",
+    "tl": "Mohamed Sayed",
+    "new_pct": 1.31,
+    "new_kpi_pct": 0.25,
+    "total_cases": 1693,
+    "total_points": 5951.0,
+    "achieved_points": 5987.0,
+    "support_points": 36.0,
+    "work_days": 20.0,
+    "avg_cases_per_day": 139.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 206,
+      "check_in": 392,
+      "dmc": 12,
+      "expired_payment": 37,
+      "failed": 171,
+      "manual": 25,
+      "refund_others": 138,
+      "reissue_refunds": 698,
+      "sch": 0,
+      "wa_sch": 14
+    },
+    "quality": {
+      "average_final_pct": 97.5,
+      "record_count": 40,
+      "percentage": 0.975
+    },
+    "sla": {
+      "avg_duration": 8.075017693,
+      "percentage": 0.08075017693
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 6,
+    "name": "Mina Magdy Makram Naseem",
+    "email": "mina.naseem@almosafer.com",
+    "tl": "Nada Metwally",
+    "new_pct": 1.3,
+    "new_kpi_pct": 0.25,
+    "total_cases": 1325,
+    "total_points": 5276.0,
+    "achieved_points": 5369.0,
+    "support_points": 93.0,
+    "work_days": 18.0,
+    "avg_cases_per_day": 132.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 119,
+      "check_in": 154,
+      "dmc": 6,
+      "expired_payment": 29,
+      "failed": 164,
+      "manual": 27,
+      "refund_others": 95,
+      "reissue_refunds": 712,
+      "sch": 0,
+      "wa_sch": 19
+    },
+    "quality": {
+      "average_final_pct": 100.0,
+      "record_count": 32,
+      "percentage": 1.0
+    },
+    "sla": {
+      "avg_duration": 9.006865564,
+      "percentage": 0.09006865564
+    },
+    "lateness": {
+      "sum_lateness": 18,
+      "count_lateness": 4
+    },
+    "sf_lateness": {
+      "lateness_minutes": 76
+    }
+  },
+  {
+    "id": 9,
+    "name": "Mahmoud Elsayed Abd El-fattah",
+    "email": "mahmoud.abdelfattah@almosafer.com",
+    "tl": "Abdelrahman Mohamed",
+    "new_pct": 1.29,
+    "new_kpi_pct": 0.25,
+    "total_cases": 1415,
+    "total_points": 5607.0,
+    "achieved_points": 5607.0,
+    "support_points": 0.0,
+    "work_days": 19.0,
+    "avg_cases_per_day": 133.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 160,
+      "check_in": 135,
+      "dmc": 33,
+      "expired_payment": 39,
+      "failed": 149,
+      "manual": 26,
+      "refund_others": 71,
+      "reissue_refunds": 775,
+      "sch": 3,
+      "wa_sch": 24
+    },
+    "quality": {
+      "average_final_pct": 95.65217391,
+      "record_count": 23,
+      "percentage": 0.9565217391
+    },
+    "sla": {
+      "avg_duration": 6.081038048,
+      "percentage": 0.06081038048
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 10,
+    "name": "Osama Mohamed Sief Eleslam Abdelaziz",
+    "email": "osama.abdelaziz@almosafer.com",
+    "tl": "Abdelrahman Mohamed",
+    "new_pct": 1.26,
+    "new_kpi_pct": 0.25,
+    "total_cases": 926,
+    "total_points": 4030.0,
+    "achieved_points": 4030.0,
+    "support_points": 0.0,
+    "work_days": 14.0,
+    "avg_cases_per_day": 125.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 29,
+      "check_in": 73,
+      "dmc": 13,
+      "expired_payment": 27,
+      "failed": 144,
+      "manual": 14,
+      "refund_others": 37,
+      "reissue_refunds": 568,
+      "sch": 3,
+      "wa_sch": 18
+    },
+    "quality": {
+      "average_final_pct": 100.0,
+      "record_count": 23,
+      "percentage": 1.0
+    },
+    "sla": {
+      "avg_duration": 13.57896245,
+      "percentage": 0.1357896245
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 12,
+    "name": "Mohamed Omar Mohamed Afify7",
+    "email": "mohamed.afify@almosafer.com",
+    "tl": "Nada Metwally",
+    "new_pct": 1.25,
+    "new_kpi_pct": 0.25,
+    "total_cases": 1254,
+    "total_points": 5138.0,
+    "achieved_points": 5138.0,
+    "support_points": 0.0,
+    "work_days": 18.0,
+    "avg_cases_per_day": 127.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 122,
+      "check_in": 106,
+      "dmc": 25,
+      "expired_payment": 19,
+      "failed": 138,
+      "manual": 37,
+      "refund_others": 54,
+      "reissue_refunds": 728,
+      "sch": 0,
+      "wa_sch": 25
+    },
+    "quality": {
+      "average_final_pct": 97.36842105,
+      "record_count": 38,
+      "percentage": 0.9736842105
+    },
+    "sla": {
+      "avg_duration": 10.51130295,
+      "percentage": 0.1051130295
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 18,
+    "name": "Mina Magdy Rizk Kamel",
+    "email": "mina.kamel@almosafer.com",
+    "tl": "Abdelrahman Mohamed",
+    "new_pct": 1.24,
+    "new_kpi_pct": 0.22,
+    "total_cases": 1097,
+    "total_points": 3994.0,
+    "achieved_points": 3994.0,
+    "support_points": 0.0,
+    "work_days": 14.0,
+    "avg_cases_per_day": 131.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 105,
+      "check_in": 261,
+      "dmc": 7,
+      "expired_payment": 13,
+      "failed": 96,
+      "manual": 16,
+      "refund_others": 81,
+      "reissue_refunds": 501,
+      "sch": 0,
+      "wa_sch": 17
+    },
+    "quality": {
+      "average_final_pct": 94.11764706,
+      "record_count": 17,
+      "percentage": 0.9411764706
+    },
+    "sla": {
+      "avg_duration": 8.319422151,
+      "percentage": 0.08319422151
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 13,
+    "name": "Shereen Sabry Mohamed Eraqy Mohamed",
+    "email": "shereen.sabry@almosafer.com",
+    "tl": "Mostafa Hamed",
+    "new_pct": 1.22,
+    "new_kpi_pct": 0.22,
+    "total_cases": 1266,
+    "total_points": 5277.0,
+    "achieved_points": 5331.0,
+    "support_points": 54.0,
+    "work_days": 19.0,
+    "avg_cases_per_day": 123.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 82,
+      "check_in": 108,
+      "dmc": 3,
+      "expired_payment": 22,
+      "failed": 129,
+      "manual": 46,
+      "refund_others": 72,
+      "reissue_refunds": 779,
+      "sch": 2,
+      "wa_sch": 23
+    },
+    "quality": {
+      "average_final_pct": 99.24242424,
+      "record_count": 33,
+      "percentage": 0.9924242424
+    },
+    "sla": {
+      "avg_duration": 10.50572172,
+      "percentage": 0.1050572172
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 16,
+    "name": "Abdelmoniem Mohamed Abdelmoniem Mohamed Elshemy",
+    "email": "abdelmoniem.elshemy@almosafer.com",
+    "tl": "Mohamed Sayed",
+    "new_pct": 1.22,
+    "new_kpi_pct": 0.22,
+    "total_cases": 1101,
+    "total_points": 4190.0,
+    "achieved_points": 4190.0,
+    "support_points": 0.0,
+    "work_days": 15.0,
+    "avg_cases_per_day": 128.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 159,
+      "check_in": 119,
+      "dmc": 10,
+      "expired_payment": 29,
+      "failed": 66,
+      "manual": 5,
+      "refund_others": 84,
+      "reissue_refunds": 616,
+      "sch": 0,
+      "wa_sch": 13
+    },
+    "quality": {
+      "average_final_pct": 96.0,
+      "record_count": 25,
+      "percentage": 0.96
+    },
+    "sla": {
+      "avg_duration": 6.56401793,
+      "percentage": 0.0656401793
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 15,
+    "name": "Ahmed Hesham Ahmed Ibrahim Mohamed",
+    "email": "ahmed.mohamed25@almosafer.com",
+    "tl": "Nada Metwally",
+    "new_pct": 1.19,
+    "new_kpi_pct": 0.22,
+    "total_cases": 1137,
+    "total_points": 4401.0,
+    "achieved_points": 4651.0,
+    "support_points": 250.0,
+    "work_days": 17.0,
+    "avg_cases_per_day": 119.0,
+    "cases": {
+      "1g_sch": 50,
+      "auto": 112,
+      "check_in": 87,
+      "dmc": 14,
+      "expired_payment": 26,
+      "failed": 109,
+      "manual": 3,
+      "refund_others": 97,
+      "reissue_refunds": 629,
+      "sch": 0,
+      "wa_sch": 10
+    },
+    "quality": {
+      "average_final_pct": 95.65217391,
+      "record_count": 23,
+      "percentage": 0.9565217391
+    },
+    "sla": {
+      "avg_duration": 9.490737682,
+      "percentage": 0.09490737682
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 17
+    }
+  },
+  {
+    "id": 17,
+    "name": "Fatma Yehia Zakaria",
+    "email": "fatma.zakaria@almosafer.com",
+    "tl": "Mohamed Sayed",
+    "new_pct": 1.19,
+    "new_kpi_pct": 0.22,
+    "total_cases": 1291,
+    "total_points": 5391.0,
+    "achieved_points": 5463.0,
+    "support_points": 72.0,
+    "work_days": 20.0,
+    "avg_cases_per_day": 119.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 69,
+      "check_in": 137,
+      "dmc": 35,
+      "expired_payment": 27,
+      "failed": 121,
+      "manual": 35,
+      "refund_others": 61,
+      "reissue_refunds": 776,
+      "sch": 0,
+      "wa_sch": 30
+    },
+    "quality": {
+      "average_final_pct": 96.79487179,
+      "record_count": 39,
+      "percentage": 0.9679487179
+    },
+    "sla": {
+      "avg_duration": 11.1746472,
+      "percentage": 0.111746472
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 20,
+    "name": "Mohamed Ayman Mohamed Ishak",
+    "email": "mohamed.ishak@almosafer.com",
+    "tl": "Nada Metwally",
+    "new_pct": 1.19,
+    "new_kpi_pct": 0.22,
+    "total_cases": 1166,
+    "total_points": 4647.0,
+    "achieved_points": 4647.0,
+    "support_points": 0.0,
+    "work_days": 17.0,
+    "avg_cases_per_day": 124.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 110,
+      "check_in": 115,
+      "dmc": 5,
+      "expired_payment": 33,
+      "failed": 141,
+      "manual": 20,
+      "refund_others": 91,
+      "reissue_refunds": 634,
+      "sch": 0,
+      "wa_sch": 17
+    },
+    "quality": {
+      "average_final_pct": 95.23809524,
+      "record_count": 21,
+      "percentage": 0.9523809524
+    },
+    "sla": {
+      "avg_duration": 5.020904879,
+      "percentage": 0.05020904879
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 7
+    }
+  },
+  {
+    "id": 26,
+    "name": "Merna Shaaban Garhy Aboelseoud",
+    "email": "merna.aboelseoud@almosafer.com",
+    "tl": "Mostafa Hamed",
+    "new_pct": 1.18,
+    "new_kpi_pct": 0.22,
+    "total_cases": 1172,
+    "total_points": 4787.0,
+    "achieved_points": 4877.0,
+    "support_points": 90.0,
+    "work_days": 18.0,
+    "avg_cases_per_day": 119.0,
+    "cases": {
+      "1g_sch": 3,
+      "auto": 92,
+      "check_in": 114,
+      "dmc": 20,
+      "expired_payment": 27,
+      "failed": 134,
+      "manual": 25,
+      "refund_others": 66,
+      "reissue_refunds": 671,
+      "sch": 3,
+      "wa_sch": 17
+    },
+    "quality": {
+      "average_final_pct": 100.0,
+      "record_count": 26,
+      "percentage": 1.0
+    },
+    "sla": {
+      "avg_duration": 10.94944862,
+      "percentage": 0.1094944862
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 19,
+    "name": "Eslam khaled elsayed Ahmed",
+    "email": "eslam.ahmed@almosafer.com",
+    "tl": "Mohamed Sayed",
+    "new_pct": 1.15,
+    "new_kpi_pct": 0.22,
+    "total_cases": 1278,
+    "total_points": 4496.0,
+    "achieved_points": 4496.0,
+    "support_points": 0.0,
+    "work_days": 17.0,
+    "avg_cases_per_day": 127.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 295,
+      "check_in": 107,
+      "dmc": 28,
+      "expired_payment": 17,
+      "failed": 101,
+      "manual": 35,
+      "refund_others": 92,
+      "reissue_refunds": 581,
+      "sch": 5,
+      "wa_sch": 17
+    },
+    "quality": {
+      "average_final_pct": 95.65217391,
+      "record_count": 23,
+      "percentage": 0.9565217391
+    },
+    "sla": {
+      "avg_duration": 10.05325503,
+      "percentage": 0.1005325503
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 23,
+    "name": "Basma Anwar Elsayed Mohamed",
+    "email": "basma.anwar@almosafer.com",
+    "tl": "Nada Metwally",
+    "new_pct": 1.15,
+    "new_kpi_pct": 0.22,
+    "total_cases": 1073,
+    "total_points": 4489.0,
+    "achieved_points": 4489.0,
+    "support_points": 0.0,
+    "work_days": 17.0,
+    "avg_cases_per_day": 117.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 72,
+      "check_in": 83,
+      "dmc": 35,
+      "expired_payment": 20,
+      "failed": 124,
+      "manual": 34,
+      "refund_others": 56,
+      "reissue_refunds": 618,
+      "sch": 0,
+      "wa_sch": 31
+    },
+    "quality": {
+      "average_final_pct": 100.0,
+      "record_count": 20,
+      "percentage": 1.0
+    },
+    "sla": {
+      "avg_duration": 11.84670719,
+      "percentage": 0.1184670719
+    },
+    "lateness": {
+      "sum_lateness": 11,
+      "count_lateness": 2
+    },
+    "sf_lateness": {
+      "lateness_minutes": 58
+    }
+  },
+  {
+    "id": 28,
+    "name": "Diaa Ali Hamed",
+    "email": "diaa.hamed@almosafer.com",
+    "tl": "Nada Metwally",
+    "new_pct": 1.15,
+    "new_kpi_pct": 0.22,
+    "total_cases": 1175,
+    "total_points": 4743.0,
+    "achieved_points": 4743.0,
+    "support_points": 0.0,
+    "work_days": 18.0,
+    "avg_cases_per_day": 119.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 115,
+      "check_in": 96,
+      "dmc": 10,
+      "expired_payment": 23,
+      "failed": 140,
+      "manual": 32,
+      "refund_others": 85,
+      "reissue_refunds": 653,
+      "sch": 0,
+      "wa_sch": 21
+    },
+    "quality": {
+      "average_final_pct": 100.0,
+      "record_count": 20,
+      "percentage": 1.0
+    },
+    "sla": {
+      "avg_duration": 8.495232497,
+      "percentage": 0.08495232497
+    },
+    "lateness": {
+      "sum_lateness": 5,
+      "count_lateness": 1
+    },
+    "sf_lateness": {
+      "lateness_minutes": 55
+    }
+  },
+  {
+    "id": 29,
+    "name": "Nouran Ismail",
+    "email": "nouran.ismail@almosafer.com",
+    "tl": "Nada Metwally",
+    "new_pct": 1.14,
+    "new_kpi_pct": 0.18,
+    "total_cases": 1278,
+    "total_points": 5205.0,
+    "achieved_points": 5205.0,
+    "support_points": 0.0,
+    "work_days": 20.0,
+    "avg_cases_per_day": 116.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 87,
+      "check_in": 140,
+      "dmc": 22,
+      "expired_payment": 29,
+      "failed": 129,
+      "manual": 30,
+      "refund_others": 57,
+      "reissue_refunds": 740,
+      "sch": 12,
+      "wa_sch": 32
+    },
+    "quality": {
+      "average_final_pct": 93.38235294,
+      "record_count": 34,
+      "percentage": 0.9338235294
+    },
+    "sla": {
+      "avg_duration": 13.75820946,
+      "percentage": 0.1375820946
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 30,
+    "name": "Belal Ahmed Shaheen",
+    "email": "belal.shaheen@almosafer.com",
+    "tl": "Mohamed Sayed",
+    "new_pct": 1.13,
+    "new_kpi_pct": 0.18,
+    "total_cases": 1116,
+    "total_points": 4335.0,
+    "achieved_points": 4650.0,
+    "support_points": 315.0,
+    "work_days": 18.0,
+    "avg_cases_per_day": 110.0,
+    "cases": {
+      "1g_sch": 63,
+      "auto": 91,
+      "check_in": 105,
+      "dmc": 7,
+      "expired_payment": 1,
+      "failed": 102,
+      "manual": 23,
+      "refund_others": 80,
+      "reissue_refunds": 629,
+      "sch": 0,
+      "wa_sch": 15
+    },
+    "quality": {
+      "average_final_pct": 100.0,
+      "record_count": 21,
+      "percentage": 1.0
+    },
+    "sla": {
+      "avg_duration": 10.81429305,
+      "percentage": 0.1081429305
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 22,
+    "name": "Aya Abd Elnasser Lotfy",
+    "email": "aya.lotfy@almosafer.com",
+    "tl": "Mostafa Hamed",
+    "new_pct": 1.12,
+    "new_kpi_pct": 0.18,
+    "total_cases": 1032,
+    "total_points": 4146.0,
+    "achieved_points": 4346.0,
+    "support_points": 200.0,
+    "work_days": 17.0,
+    "avg_cases_per_day": 110.0,
+    "cases": {
+      "1g_sch": 40,
+      "auto": 60,
+      "check_in": 99,
+      "dmc": 17,
+      "expired_payment": 17,
+      "failed": 103,
+      "manual": 26,
+      "refund_others": 51,
+      "reissue_refunds": 602,
+      "sch": 4,
+      "wa_sch": 13
+    },
+    "quality": {
+      "average_final_pct": 92.74193548,
+      "record_count": 31,
+      "percentage": 0.9274193548
+    },
+    "sla": {
+      "avg_duration": 9.948326301,
+      "percentage": 0.09948326301
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 21,
+    "name": "Hadeer Alaa El-din",
+    "email": "hadeer.eldin@almosafer.com",
+    "tl": "Mostafa Hamed",
+    "new_pct": 1.11,
+    "new_kpi_pct": 0.18,
+    "total_cases": 746,
+    "total_points": 2798.0,
+    "achieved_points": 3053.0,
+    "support_points": 255.0,
+    "work_days": 12.0,
+    "avg_cases_per_day": 109.0,
+    "cases": {
+      "1g_sch": 51,
+      "auto": 90,
+      "check_in": 42,
+      "dmc": 18,
+      "expired_payment": 13,
+      "failed": 62,
+      "manual": 14,
+      "refund_others": 37,
+      "reissue_refunds": 407,
+      "sch": 3,
+      "wa_sch": 9
+    },
+    "quality": {
+      "average_final_pct": 92.5,
+      "record_count": 30,
+      "percentage": 0.925
+    },
+    "sla": {
+      "avg_duration": 9.937806908,
+      "percentage": 0.09937806908
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 24,
+    "name": "Ahmed Mostafa Abdelfatah Shalabi",
+    "email": "ahmed.shalabi@almosafer.com",
+    "tl": "Mohamed Sayed",
+    "new_pct": 1.11,
+    "new_kpi_pct": 0.18,
+    "total_cases": 1099,
+    "total_points": 4549.0,
+    "achieved_points": 4569.0,
+    "support_points": 20.0,
+    "work_days": 18.0,
+    "avg_cases_per_day": 113.0,
+    "cases": {
+      "1g_sch": 4,
+      "auto": 83,
+      "check_in": 86,
+      "dmc": 23,
+      "expired_payment": 20,
+      "failed": 115,
+      "manual": 29,
+      "refund_others": 76,
+      "reissue_refunds": 647,
+      "sch": 0,
+      "wa_sch": 16
+    },
+    "quality": {
+      "average_final_pct": 100.0,
+      "record_count": 23,
+      "percentage": 1.0
+    },
+    "sla": {
+      "avg_duration": 10.81948446,
+      "percentage": 0.1081948446
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 27,
+    "name": "Reham Khaled Saad Hamed",
+    "email": "reham.hamed@almosafer.com",
+    "tl": "Mostafa Hamed",
+    "new_pct": 1.11,
+    "new_kpi_pct": 0.18,
+    "total_cases": 806,
+    "total_points": 3320.0,
+    "achieved_points": 3320.0,
+    "support_points": 0.0,
+    "work_days": 13.0,
+    "avg_cases_per_day": 114.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 55,
+      "check_in": 78,
+      "dmc": 0,
+      "expired_payment": 13,
+      "failed": 81,
+      "manual": 45,
+      "refund_others": 35,
+      "reissue_refunds": 490,
+      "sch": 2,
+      "wa_sch": 7
+    },
+    "quality": {
+      "average_final_pct": 93.75,
+      "record_count": 16,
+      "percentage": 0.9375
+    },
+    "sla": {
+      "avg_duration": 10.2644052,
+      "percentage": 0.102644052
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 33,
+    "name": "Islam Wahed Farouk",
+    "email": "islam.farouk@almosafer.com",
+    "tl": "Mostafa Hamed",
+    "new_pct": 1.11,
+    "new_kpi_pct": 0.18,
+    "total_cases": 949,
+    "total_points": 4065.0,
+    "achieved_points": 4065.0,
+    "support_points": 0.0,
+    "work_days": 16.0,
+    "avg_cases_per_day": 112.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 0,
+      "check_in": 105,
+      "dmc": 2,
+      "expired_payment": 3,
+      "failed": 52,
+      "manual": 27,
+      "refund_others": 127,
+      "reissue_refunds": 617,
+      "sch": 0,
+      "wa_sch": 16
+    },
+    "quality": {
+      "average_final_pct": 100.0,
+      "record_count": 26,
+      "percentage": 1.0
+    },
+    "sla": {
+      "avg_duration": 11.65042135,
+      "percentage": 0.1165042135
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 31,
+    "name": "Youssef Shreif Elsayed Ibrahim",
+    "email": "youssef.shreif@almosafer.com",
+    "tl": "Nada Metwally",
+    "new_pct": 1.09,
+    "new_kpi_pct": 0.18,
+    "total_cases": 975,
+    "total_points": 3870.0,
+    "achieved_points": 3995.0,
+    "support_points": 150.0,
+    "work_days": 16.0,
+    "avg_cases_per_day": 109.0,
+    "cases": {
+      "1g_sch": 25,
+      "auto": 91,
+      "check_in": 90,
+      "dmc": 0,
+      "expired_payment": 1,
+      "failed": 121,
+      "manual": 21,
+      "refund_others": 65,
+      "reissue_refunds": 535,
+      "sch": 4,
+      "wa_sch": 22
+    },
+    "quality": {
+      "average_final_pct": 100.0,
+      "record_count": 12,
+      "percentage": 1.0
+    },
+    "sla": {
+      "avg_duration": 8.549233716,
+      "percentage": 0.08549233716
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 37,
+    "name": "Mohamed Ahmed Abdelhalim Ahmed Farahat",
+    "email": "mohamed.farahat@almosafer.com",
+    "tl": "Abdelrahman Mohamed",
+    "new_pct": 1.04,
+    "new_kpi_pct": 0.15,
+    "total_cases": 1003,
+    "total_points": 4053.0,
+    "achieved_points": 4053.0,
+    "support_points": 0.0,
+    "work_days": 17.0,
+    "avg_cases_per_day": 107.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 63,
+      "check_in": 121,
+      "dmc": 12,
+      "expired_payment": 32,
+      "failed": 123,
+      "manual": 27,
+      "refund_others": 60,
+      "reissue_refunds": 549,
+      "sch": 0,
+      "wa_sch": 16
+    },
+    "quality": {
+      "average_final_pct": 95.37037037,
+      "record_count": 27,
+      "percentage": 0.9537037037
+    },
+    "sla": {
+      "avg_duration": 15.47673378,
+      "percentage": 0.1547673378
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 32,
+    "name": "Medhat Ahmed Abdelmoeemen Ahmed",
+    "email": "medhat.ahmed@almosafer.com",
+    "tl": "Mostafa Hamed",
+    "new_pct": 1.02,
+    "new_kpi_pct": 0.15,
+    "total_cases": 1165,
+    "total_points": 4453.0,
+    "achieved_points": 4453.0,
+    "support_points": 0.0,
+    "work_days": 19.0,
+    "avg_cases_per_day": 108.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 196,
+      "check_in": 81,
+      "dmc": 7,
+      "expired_payment": 17,
+      "failed": 113,
+      "manual": 23,
+      "refund_others": 97,
+      "reissue_refunds": 620,
+      "sch": 2,
+      "wa_sch": 9
+    },
+    "quality": {
+      "average_final_pct": 100.0,
+      "record_count": 25,
+      "percentage": 1.0
+    },
+    "sla": {
+      "avg_duration": 8.915013372,
+      "percentage": 0.08915013372
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 36,
+    "name": "Ahmed Hesham Fouad Radwan",
+    "email": "ahmed.radwan@almosafer.com",
+    "tl": "Nada Metwally",
+    "new_pct": 1.01,
+    "new_kpi_pct": 0.15,
+    "total_cases": 1051,
+    "total_points": 4173.0,
+    "achieved_points": 4173.0,
+    "support_points": 0.0,
+    "work_days": 18.0,
+    "avg_cases_per_day": 106.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 73,
+      "check_in": 129,
+      "dmc": 1,
+      "expired_payment": 29,
+      "failed": 82,
+      "manual": 34,
+      "refund_others": 92,
+      "reissue_refunds": 602,
+      "sch": 0,
+      "wa_sch": 9
+    },
+    "quality": {
+      "average_final_pct": 100.0,
+      "record_count": 39,
+      "percentage": 1.0
+    },
+    "sla": {
+      "avg_duration": 9.493190555,
+      "percentage": 0.09493190555
+    },
+    "lateness": {
+      "sum_lateness": 21,
+      "count_lateness": 3
+    },
+    "sf_lateness": {
+      "lateness_minutes": 99
+    }
+  },
+  {
+    "id": 34,
+    "name": "Abdel Salam Sayed Abdel Salam",
+    "email": "abdel.salam@almosafer.com",
+    "tl": "Abdelrahman Mohamed",
+    "new_pct": 1.0,
+    "new_kpi_pct": 0.15,
+    "total_cases": 908,
+    "total_points": 3652.0,
+    "achieved_points": 3667.0,
+    "support_points": 15.0,
+    "work_days": 16.0,
+    "avg_cases_per_day": 102.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 49,
+      "check_in": 142,
+      "dmc": 9,
+      "expired_payment": 14,
+      "failed": 117,
+      "manual": 21,
+      "refund_others": 69,
+      "reissue_refunds": 477,
+      "sch": 0,
+      "wa_sch": 10
+    },
+    "quality": {
+      "average_final_pct": 90.625,
+      "record_count": 24,
+      "percentage": 0.90625
+    },
+    "sla": {
+      "avg_duration": 12.52337923,
+      "percentage": 0.1252337923
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 38,
+    "name": "Al Sayed Samir Elsayed Elamrosy",
+    "email": "elsayed.elamrosy@almosafer.com",
+    "tl": "Mostafa Hamed",
+    "new_pct": 0.99,
+    "new_kpi_pct": 0.15,
+    "total_cases": 1006,
+    "total_points": 4078.0,
+    "achieved_points": 4078.0,
+    "support_points": 0.0,
+    "work_days": 18.0,
+    "avg_cases_per_day": 101.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 99,
+      "check_in": 87,
+      "dmc": 7,
+      "expired_payment": 22,
+      "failed": 90,
+      "manual": 6,
+      "refund_others": 84,
+      "reissue_refunds": 599,
+      "sch": 0,
+      "wa_sch": 12
+    },
+    "quality": {
+      "average_final_pct": 95.23809524,
+      "record_count": 21,
+      "percentage": 0.9523809524
+    },
+    "sla": {
+      "avg_duration": 11.49417144,
+      "percentage": 0.1149417144
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 35,
+    "name": "Mohamed Ahmed Samir",
+    "email": "mohamed.samir@almosafer.com",
+    "tl": "Abdelrahman Mohamed",
+    "new_pct": 0.98,
+    "new_kpi_pct": 0.15,
+    "total_cases": 792,
+    "total_points": 3136.0,
+    "achieved_points": 3136.0,
+    "support_points": 0.0,
+    "work_days": 14.0,
+    "avg_cases_per_day": 100.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 59,
+      "check_in": 125,
+      "dmc": 21,
+      "expired_payment": 17,
+      "failed": 75,
+      "manual": 22,
+      "refund_others": 24,
+      "reissue_refunds": 430,
+      "sch": 2,
+      "wa_sch": 17
+    },
+    "quality": {
+      "average_final_pct": 90.90909091,
+      "record_count": 22,
+      "percentage": 0.9090909091
+    },
+    "sla": {
+      "avg_duration": 11.06751825,
+      "percentage": 0.1106751825
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 39,
+    "name": "Mohamed Reda Abdelsalam Younes",
+    "email": "mohamed.younes@almosafer.com",
+    "tl": "Mostafa Hamed",
+    "new_pct": 0.93,
+    "new_kpi_pct": 0.12,
+    "total_cases": 803,
+    "total_points": 3196.0,
+    "achieved_points": 3196.0,
+    "support_points": 0.0,
+    "work_days": 15.0,
+    "avg_cases_per_day": 98.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 68,
+      "check_in": 69,
+      "dmc": 8,
+      "expired_payment": 22,
+      "failed": 78,
+      "manual": 17,
+      "refund_others": 72,
+      "reissue_refunds": 437,
+      "sch": 1,
+      "wa_sch": 31
+    },
+    "quality": {
+      "average_final_pct": 100.0,
+      "record_count": 18,
+      "percentage": 1.0
+    },
+    "sla": {
+      "avg_duration": 11.17481714,
+      "percentage": 0.1117481714
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 40,
+    "name": "Mohamed Zakaria Abdelfattah",
+    "email": "mohamed.abdelfattah@almosafer.com",
+    "tl": "Mostafa Hamed",
+    "new_pct": 0.91,
+    "new_kpi_pct": 0.12,
+    "total_cases": 943,
+    "total_points": 3752.0,
+    "achieved_points": 3752.0,
+    "support_points": 0.0,
+    "work_days": 18.0,
+    "avg_cases_per_day": 94.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 93,
+      "check_in": 101,
+      "dmc": 6,
+      "expired_payment": 20,
+      "failed": 103,
+      "manual": 32,
+      "refund_others": 56,
+      "reissue_refunds": 524,
+      "sch": 0,
+      "wa_sch": 8
+    },
+    "quality": {
+      "average_final_pct": 98.91304348,
+      "record_count": 23,
+      "percentage": 0.9891304348
+    },
+    "sla": {
+      "avg_duration": 11.41937883,
+      "percentage": 0.1141937883
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 41,
+    "name": "Yehia Sayed yehia Abdelnaby",
+    "email": "yehia.abdelnaby@almosafer.com",
+    "tl": "Mohamed Sayed",
+    "new_pct": 0.86,
+    "new_kpi_pct": 0.12,
+    "total_cases": 975,
+    "total_points": 3171.0,
+    "achieved_points": 3171.0,
+    "support_points": 0.0,
+    "work_days": 16.0,
+    "avg_cases_per_day": 110.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 49,
+      "check_in": 135,
+      "dmc": 13,
+      "expired_payment": 33,
+      "failed": 34,
+      "manual": 15,
+      "refund_others": 30,
+      "reissue_refunds": 229,
+      "sch": 0,
+      "wa_sch": 437
+    },
+    "quality": {
+      "average_final_pct": 97.91666667,
+      "record_count": 12,
+      "percentage": 0.9791666667
+    },
+    "sla": {
+      "avg_duration": 7.789987406,
+      "percentage": 0.07789987406
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 43,
+    "name": "Ahmed AboElhamd Kasem Fawy Ashmawy",
+    "email": "ahmed.ashmawy@almosafer.com",
+    "tl": "Mohamed Sayed",
+    "new_pct": 0.67,
+    "new_kpi_pct": 0.0,
+    "total_cases": 619,
+    "total_points": 2458.0,
+    "achieved_points": 2458.0,
+    "support_points": 0.0,
+    "work_days": 16.0,
+    "avg_cases_per_day": 70.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 59,
+      "check_in": 67,
+      "dmc": 0,
+      "expired_payment": 12,
+      "failed": 64,
+      "manual": 20,
+      "refund_others": 36,
+      "reissue_refunds": 346,
+      "sch": 0,
+      "wa_sch": 15
+    },
+    "quality": {
+      "average_final_pct": 90.90909091,
+      "record_count": 11,
+      "percentage": 0.9090909091
+    },
+    "sla": {
+      "avg_duration": 9.751015109,
+      "percentage": 0.09751015109
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 42,
+    "name": "Mahmoud Magdy Gharib",
+    "email": "mahmoud.ahmed7@almosafer.com",
+    "tl": "Abdelrahman Mohamed",
+    "new_pct": 0.66,
+    "new_kpi_pct": 0.0,
+    "total_cases": 545,
+    "total_points": 1980.0,
+    "achieved_points": 1980.0,
+    "support_points": 0.0,
+    "work_days": 13.0,
+    "avg_cases_per_day": 69.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 66,
+      "check_in": 123,
+      "dmc": 1,
+      "expired_payment": 8,
+      "failed": 49,
+      "manual": 8,
+      "refund_others": 27,
+      "reissue_refunds": 260,
+      "sch": 0,
+      "wa_sch": 3
+    },
+    "quality": {
+      "average_final_pct": 89.47368421,
+      "record_count": 19,
+      "percentage": 0.8947368421
+    },
+    "sla": {
+      "avg_duration": 5.176573427,
+      "percentage": 0.05176573427
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 44,
+    "name": "Ahmed Ibrahim Selim AIS",
+    "email": "ahmed.mohamed14@almosafer.com",
+    "tl": "Mostafa Hamed",
+    "new_pct": 0.45,
+    "new_kpi_pct": 0.0,
+    "total_cases": 631,
+    "total_points": 1968.0,
+    "achieved_points": 1968.0,
+    "support_points": 0.0,
+    "work_days": 19.0,
+    "avg_cases_per_day": 52.0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 238,
+      "check_in": 37,
+      "dmc": 8,
+      "expired_payment": 13,
+      "failed": 77,
+      "manual": 4,
+      "refund_others": 25,
+      "reissue_refunds": 223,
+      "sch": 0,
+      "wa_sch": 6
+    },
+    "quality": {
+      "average_final_pct": 90.0,
+      "record_count": 10,
+      "percentage": 0.9
+    },
+    "sla": {
+      "avg_duration": 21.02737455,
+      "percentage": 0.2102737455
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  },
+  {
+    "id": 8,
+    "name": "Mohamed Gamal Bekheit",
+    "email": "mohamed.bekheit@almosafer.com",
+    "tl": "Abdelrahman Mohamed",
+    "new_pct": 0.0,
+    "new_kpi_pct": 0,
+    "total_cases": 186,
+    "total_points": 0,
+    "achieved_points": 0.0,
+    "support_points": 0.0,
+    "work_days": 0,
+    "avg_cases_per_day": 0,
+    "cases": {
+      "1g_sch": 0,
+      "auto": 0,
+      "check_in": 74,
+      "dmc": 1,
+      "expired_payment": 3,
+      "failed": 6,
+      "manual": 0,
+      "refund_others": 7,
+      "reissue_refunds": 93,
+      "sch": 0,
+      "wa_sch": 2
+    },
+    "quality": {
+      "average_final_pct": 90.90909091,
+      "record_count": 22,
+      "percentage": 0.9090909091
+    },
+    "sla": {
+      "avg_duration": 14.58558146,
+      "percentage": 0.1458558146
+    },
+    "lateness": {
+      "sum_lateness": 0,
+      "count_lateness": 0
+    },
+    "sf_lateness": {
+      "lateness_minutes": 0
+    }
+  }
+]
